@@ -8,7 +8,7 @@
 ### Preprocesamiento
  - [ ] Resize: 300x300 y [0,255]
  - [ ] Dividir en **train**, **val** y **test**
-     - [ ] Importancia diferente número de espectrogramas: ~100 
+     - [ ] Importancia diferente número de espectrogramas: ~100 -> Probablemente influya, hay que intentar mismo número.
  - [ ] Limpiar el código
     
 ## Red
