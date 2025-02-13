@@ -1,2 +1,4 @@
 # Ignorar archivos de checkpoint de Jupyter
 .ipynb_checkpoints/
+#old save: 2 steps for creating dataset
+save_pre.ipynb
